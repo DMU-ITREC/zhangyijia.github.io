@@ -24,7 +24,7 @@ author:
   avatar           : "张益嘉.jpg"
   name             : "张益嘉"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #
   employer         : "大连海事大学信息科学技术学院"
   location         : "船电楼106"
   uri              : # URL

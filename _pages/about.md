@@ -8,6 +8,14 @@ redirect_from:
 ---
 
 ## 教育经历
+
+<table border="1" bgcolor="yellowgreen">
+    <tr>
+        <td>**count** 1 </td>
+        <td>**count** 2 &lt; 4 &amp; 6</td>
+    </tr>
+</table>
+
 | &nbsp | &nbsp |
 |:--------|:-------|
 | 1999.09-2003.07 | 大连理工大学 计算机科学与技术专业 本科 |

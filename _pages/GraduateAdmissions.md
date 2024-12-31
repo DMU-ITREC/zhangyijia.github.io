@@ -25,7 +25,7 @@ layout: single
     <tr>
         <td nowrap="nowrap"> 博士招生信息 </td>
         <td style="text-align:center;"> 081200 </td>
-        <td nowrap="nowrap" style="text-align:center;"> 计算机科学与技术 </td>
+        <td style="text-align:center;"> 计算机科学与技术 </td>
         <td>招生要求： 1. 计算机科学、软件工程等相关专业背景； 2. 对科研有热情和兴趣，有志于从事学术研究工作； 3. 有较好的数学基础、扎实的编程能力； 4. 在相关领域重要期刊或会议发表过科研论文。</td>
     </tr>
     <tr>

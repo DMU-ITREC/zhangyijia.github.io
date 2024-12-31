@@ -9,7 +9,7 @@ redirect_from:
 毕业院校：大连理工大学<br /> 
 办公室：船电楼B106 <br />
 学位：博士<br />
-邮箱：zhgangyijia@dlmu.edu.cn <br />
+邮箱：zhangyijia@dlmu.edu.cn <br />
 社会职务：中文信息学会情感计算专委会委员、医疗健康与生物信息专委会委员、社会媒体处理专委会委员
 
 ## 教育经历

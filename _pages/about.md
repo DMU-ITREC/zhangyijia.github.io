@@ -17,15 +17,15 @@ redirect_from:
 <table border="0.5" bgcolor="white">
     <tr>
         <td> 1999.09-2003.07 </td>
-        <td> 大连理工大学 计算机科学与技术专业 本科 </td>
+        <td style="text-align:center;"> 大连理工大学 计算机科学与技术专业 本科 </td>
     </tr>
     <tr>
         <td> 2007.09-2009.12 </td>
-        <td> 大连理工大学 计算机应用 硕士 </td>
+        <td style="text-align:center;"> 大连理工大学 计算机应用 硕士 </td>
     </tr>
     <tr>
         <td> 2011.09-2014.10 </td>
-        <td> 大连理工大学 计算机技术 博士 </td>
+        <td style="text-align:center;"> 大连理工大学 计算机技术 博士 </td>
     </tr>
 </table>
 
@@ -34,31 +34,31 @@ redirect_from:
 <table border="0.5" bgcolor="white">
     <tr>
         <td> 2003.07-2014.12 </td>
-        <td> 大连理工大学 计算机技术实验室 工程师 </td>
+        <td style="text-align:center;"> 大连理工大学 计算机技术实验室 工程师 </td>
     </tr>
     <tr>
         <td> 2014.12-2016.09 </td>
-        <td> 大连理工大学 计算机技术实验室 高级工程师 实验室主任 </td>
+        <td style="text-align:center;"> 大连理工大学 计算机技术实验室 高级工程师 实验室主任 </td>
     </tr>
     <tr>
         <td> 2016.09-2017.09 </td>
-        <td> 斯坦福大学 Center for Biomedical Informatics Research (BMIR) 博士后 </td>
+        <td style="text-align:center;"> 斯坦福大学 Center for Biomedical Informatics Research (BMIR) 博士后 </td>
     </tr>
    <tr>
         <td> 2017.09-2018.09 </td>
-        <td>美国国立卫生研究院 National Center for Biotechnology Information (NCBI) 博士后 </td>
+        <td style="text-align:center;">美国国立卫生研究院 National Center for Biotechnology Information (NCBI) 博士后 </td>
     </tr>
     <tr>
         <td> 2018.09-2019.12 </td>
-        <td> 大连理工大学 计算机技术实验室 高级工程师 实验室主任 </td>
+        <td style="text-align:center;"> 大连理工大学 计算机技术实验室 高级工程师 实验室主任 </td>
     </tr>
     <tr>
         <td> 2019.12-2021.07 </td>
-        <td> 大连海事大学 信息科学技术学院 副教授 </td>
+        <td style="text-align:center;"> 大连海事大学 信息科学技术学院 副教授 </td>
     </tr>
   <tr>
         <td> 2021.07-至今 </td>
-        <td> 大连海事大学 信息科学技术学院 教授 </td>
+        <td style="text-align:center;"> 大连海事大学 信息科学技术学院 教授 </td>
     </tr>
 </table>
 

@@ -9,7 +9,7 @@ redirect_from:
 
 ## 教育经历
 
-<table border="1" bgcolor="yellowgreen">
+<table border="0.5" bgcolor="white">
     <tr>
         <td>**count** 1 </td>
         <td>**count** 2 &lt; 4 &amp; 6</td>
